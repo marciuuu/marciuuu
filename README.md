@@ -1,4 +1,18 @@
-## Ola! Eu sou o Marcio Gonçalves 👋
+## Sobre Mim 👋
+Olá! Sou um entusiasta da tecnologia e recém-formado no curso técnico de Informática para Internet pela ETEC Philadelpho. Durante o curso, tive a oportunidade de explorar diversas áreas da tecnologia, como:
+
+<ul>
+<li> Computação em Nuvem ☁️ </li>
+<li> Redes de Computadores 🌐 </li>
+<li> Cybersegurança 🔒 </li>
+<li> Desenvolvimento Mobile com Java 📱 </li>
+<li> Desenvolvimento Web, utilizando: </li>
+HTML, CSS e JavaScript 
+<li> Java com Spring Boot para o backend e banco de dados. </li>
+</ul>
+Atualmente, estou revisando os fundamentos de HTML e CSS, além de aprofundar meus estudos em JavaScript, buscando me tornar um desenvolvedor cada vez mais completo. 🚀
+
+Estou sempre aberto a novos desafios, feedbacks e oportunidades para evoluir na área de tecnologia. 
 
 <br>
 <br>
