@@ -1,5 +1,5 @@
 ## Sobre Mim 👋
-Olá! Sou um entusiasta da tecnologia e recém-formado no curso técnico de Informática para Internet pela ETEC Philadelpho. Durante o curso, tive a oportunidade de explorar diversas áreas da tecnologia, como:
+Olá! Sou um entusiasta da tecnologia e recém-formado no curso técnico de Informática para Internet pela ETEC Philadelpho (Dez. 2024). Durante o curso, tive a oportunidade de explorar diversas áreas da tecnologia, como:
 
 <ul>
 <li> Computação em Nuvem ☁️ </li>
