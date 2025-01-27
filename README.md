@@ -4,7 +4,6 @@ Olá! Sou um entusiasta da tecnologia e recém-formado no curso técnico de Info
 <ul>
 <li> Computação em Nuvem ☁️ </li>
 <li> Redes de Computadores 🌐 </li>
-<li> Cybersegurança 🔒 </li>
 <li> Desenvolvimento Mobile com Java 📱 </li>
 <li> Desenvolvimento Web, utilizando: </li>
 HTML, CSS e JavaScript 
