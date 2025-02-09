@@ -1,10 +1,7 @@
 ## Sobre Mim 👋
-Olá! Sou um entusiasta da tecnologia e recém-formado no curso técnico de Informática para Internet pela ETEC Philadelpho (Dez. 2024). Durante o curso, tive a oportunidade de explorar diversas áreas da tecnologia, como:
+Olá! Sou uma pessoa curiosa e fascinada pelo universo da tecnologia. Tenho interesse nas seguintes tecnologias:
 
 <ul>
-<li> Computação em Nuvem ☁️ </li>
-<li> Redes de Computadores 🌐 </li>
-<li> Desenvolvimento Mobile com Java 📱 </li>
 <li> Desenvolvimento Web, utilizando: </li>
 HTML, CSS e JavaScript 
 <li> Java com Spring Boot para o backend e banco de dados. </li>
