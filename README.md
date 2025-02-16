@@ -1,5 +1,5 @@
 ## Sobre Mim 👋
-Olá! Sou uma pessoa curiosa e fascinada pelo universo da tecnologia. Tenho interesse nas seguintes tecnologias:
+Olá! Tenho interesse nas seguintes tecnologias:
 
 <ul>
 <li> Desenvolvimento Web: HTML, CSS, JavaScript </li>
