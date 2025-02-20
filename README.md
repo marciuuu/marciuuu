@@ -5,9 +5,9 @@ Olá! Tenho interesse nas seguintes tecnologias:
 <li> Desenvolvimento Web: HTML, CSS, JavaScript </li>
 </ul>
 
-Sempre fui muito curioso sobre tecnologia e, desde criança, gosto de pesquisar e aprender sobre o tema. Atualmente, estou revisando os fundamentos de HTML e CSS, além de aprofundar meus estudos em JavaScript, buscando me tornar um desenvolvedor cada vez mais completo na área de front-end e, futuramente, um desenvolvedor full stack. 🚀
+Desde cedo, sempre gostei de tecnologia, de pesquisar e aprender sobre o tema. Tive contato com a área de análise de sistemas e desenvolvimento web, onde estou revisando meus conhecimentos em HTML e CSS, além de aprofundar meus estudos em JavaScript. Meu objetivo é me tornar um desenvolvedor cada vez mais completo na área web. 🚀
 
-Estou sempre aberto a novos desafios, feedbacks e oportunidades para evoluir na área de tecnologia. 
+Estou sempre aberto a novos desafios, feedbacks e oportunidades para evoluir!
 
 <br>
 <br>
