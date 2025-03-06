@@ -1,7 +1,7 @@
 ## Sobre Mim 👋
 Olá! 
 
-Desde cedo, sempre gostei de tecnologia, de pesquisar e aprender sobre o tema. Tive contato com a área de análise de sistemas e desenvolvimento web, onde estou revisando meus conhecimentos em HTML e CSS, além de aprofundar meus estudos em JavaScript. Meu objetivo é me tornar um desenvolvedor cada vez mais completo na área web. 🚀
+Tenho um grande interesse em desenvolvimento web. Atualmente, estou aprofundando meus estudos em JavaScript e suas diversas aplicações, com o objetivo de expandir minhas habilidades e me tornar um desenvolvedor cada vez mais completo na área web.🚀
 
 <br>
 <br>
