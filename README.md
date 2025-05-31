@@ -1,8 +1,6 @@
 ## Sobre Mim 👋
 Olá! 
 
-Tenho um grande interesse em desenvolvimento web. Atualmente, estou aprofundando meus estudos em JavaScript e suas diversas aplicações, com o objetivo de expandir minhas habilidades e me tornar um desenvolvedor cada vez mais completo na área web.🚀
-
 <br>
 <br>
 <br>
