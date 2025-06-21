@@ -5,8 +5,6 @@ Além disso, estudo **Programação e Administração na Fatec**, o que tem ampl
 
 Aqui no meu GitHub, testo ideias, às vezes apanho dos meus códigos, exploro novas tecnologias, tendências e me desafio a criar soluções práticas e reais que possam ser usadas. Gosto da ideia de aprender a teoria e logo aplicar no meu cotidiano.
 
-Também estou entrando no mundo de **UX/UI design** para deixar tudo mais bonito, funcional e amigável, afinal, um sistema legal não é só questão de código, mas de experiência!
-
 ---
 
 ## Tecnologias que ando explorando atualmente  
