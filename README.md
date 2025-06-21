@@ -7,8 +7,6 @@ Aqui no meu GitHub, testo ideias, às vezes apanho dos meus códigos, exploro no
 
 Também estou entrando no mundo de **UX/UI design** para deixar tudo mais bonito, funcional e amigável, afinal, um sistema legal não é só questão de código, mas de experiência!
 
-Este repositório é meu laboratório de experimentos, onde erro, acerto, aprendo e cresço!
-
 ---
 
 ## Tecnologias que ando explorando atualmente  
