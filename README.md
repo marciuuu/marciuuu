@@ -1,11 +1,24 @@
-## Sobre Mim 👋
-Olá! 
+# Olá, seja bem-vindo! 👋 
 
-<br>
-<br>
-<br>
+Sou um estudante da área de TI, curioso e interessado especialmente por **análise e desenvolvimento de projetos e sistemas**.  
+Além disso, também estudo **Administração** na Fatec, o que me ajuda a entender melhor como processos, pessoas e tecnologia podem trabalhar juntos para gerar resultados reais e eficientes. Essa combinação tem ampliado minha visão para desenvolver soluções não só tecnológicas, mas também alinhadas com o mundo dos negócios e da gestão.
 
-## Tecnologias utilizadas atualmente
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Aqui no meu GitHub, testo ideias, às vezes apanho dos meus códigos, exploro novas tecnologias, tendências e me desafio a criar soluções práticas e reais que possam ser usadas. Gosto da ideia de aprender a teoria e logo aplicar no meu cotidiano.
+
+Também estou entrando no mundo de **UX/UI design** para deixar tudo mais bonito, funcional e amigável, afinal, um sistema legal não é só questão de código, mas de experiência!
+
+Este repositório é meu laboratório de experimentos, onde erro, acerto, aprendo e cresço!
+
+---
+
+## Tecnologias que ando explorando atualmente  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+*“Um projeto descuidadamente planejado  
+vai tomar o triplo do tempo esperado para  
+completar-se; um projeto cuidadosamente  
+planejado somente vai tomar o dobro do  
+tempo esperado.”*  
+— Nigel Slack ☕💻
