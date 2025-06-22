@@ -3,7 +3,7 @@
 Sou um estudante da área de TI e Administração, curioso e interessado especialmente por **análise e desenvolvimento de projetos e sistemas**.  
 Além disso, estudo **Programação e Administração na Fatec**, o que tem ampliado minha visão para entender como tecnologia e gestão caminham juntas para gerar resultados reais e eficientes. Essa combinação me ajuda a desenvolver soluções alinhadas tanto com o mundo dos negócios quanto com o da tecnologia.
 
-Aqui no meu GitHub, testo ideias, às vezes apanho dos meus códigos, exploro novas tecnologias, tendências e me desafio a criar soluções práticas e reais que possam ser usadas. Gosto da ideia de aprender a teoria e logo aplicar no meu cotidiano.
+Aqui no meu GitHub, testo ideias, às vezes apanho dos meus códigos, exploro novas tecnologias e me desafio a criar soluções práticas e reais que possam ser usadas. Gosto da ideia de aprender a teoria e logo aplicar no meu cotidiano.
 
 ---
 
