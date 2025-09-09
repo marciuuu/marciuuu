@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo! 👋 
 
-Sou um estudante da área de TI e Administração, curioso e interessado especialmente por **análise e desenvolvimento de projetos e sistemas**.  
+Sou estudante de Tecnologia da Informação e Administração, com especial interesse em análise e desenvolvimento de projetos e sistemas. Explorando também as áreas de redes de computadores, cibersegurança, inteligência artificial e o mundo acadêmico.  
 
 ---
 
