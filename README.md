@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo! 👋 
 
-Sou estudante de Tecnologia da Informação e Administração, com especial interesse em análise e desenvolvimento de projetos e sistemas. Explorando também as áreas de redes de computadores, cibersegurança, inteligência artificial e o mundo acadêmico.  
+Estudante de Informática para Negócios. Foco profissional em Infraestrutura de TI, Redes e Cibersegurança, com interesse na área acadêmica.
 
 ---
 
